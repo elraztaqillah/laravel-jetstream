@@ -1,10 +1,10 @@
 Source : https://jetstream.laravel.com/installation.html
 
-##Register
+## Register
 <img width="1360" height="631" alt="image" src="https://github.com/user-attachments/assets/f2ef467c-4a3e-4666-858b-b0f66bf875c8" />
 
 
-##Login
+## Login
 <img width="1360" height="645" alt="image" src="https://github.com/user-attachments/assets/27e39fa7-61d7-4bfc-9364-f037dbe94a48" />
 
 
